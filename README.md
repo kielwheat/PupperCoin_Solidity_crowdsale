@@ -1,4 +1,4 @@
-# PupperCoin_wk21
+# PupperCoin Solidity Crowdsale 
 
 PupperCoin is a ERC20 token that is going to leverage a Crowdsale contract from OpenZepplin Solidity to help raise funds for a stated goal, enable refunds once that goal is met, and have a time limit on the crowdsale fundraising.  
 
